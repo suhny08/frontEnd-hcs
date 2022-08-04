@@ -1,0 +1,383 @@
+{
+    "orgList": [
+        {
+            "mdatRprsOrgId": "AACU", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "미래에셋증권", 
+            "mdatRprsOrgIstyId": "C1", 
+            "mdatRprsIstyNm": "금융투자", 
+            "mdatPrryRank": "1", 
+            "mdatOrgId": "C1AACU0000",
+            "industryCode": "invest"
+        }, 
+        {
+            "mdatRprsOrgId": "AAPW", 
+            "mdatRcmmYn": "N", 
+            "mdatRprsOrgNm": "SK증권", 
+            "mdatRprsOrgIstyId": "C1", 
+            "mdatRprsIstyNm": "금융투자", 
+            "mdatPrryRank": "17", 
+            "mdatOrgId": "C1AAPW0000",
+            "industryCode": "invest"
+        }, 
+        {
+            "mdatRprsOrgId": "AACT", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "한국투자증권", 
+            "mdatRprsOrgIstyId": "C1", 
+            "mdatRprsIstyNm": "금융투자", 
+            "mdatPrryRank": "2", 
+            "mdatOrgId": "C1AACT0000",
+            "industryCode": "invest"
+        }, 
+        {
+            "mdatRprsOrgId": "AAEY", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "삼성증권", 
+            "mdatRprsOrgIstyId": "C1", 
+            "mdatRprsIstyNm": "금융투자", 
+            "mdatPrryRank": "3", 
+            "mdatOrgId": "C1AAEY0000",
+            "industryCode": "invest"
+        }, 
+        {
+            "mdatRprsOrgId": "AABR", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "키움증권", 
+            "mdatRprsOrgIstyId": "C1", 
+            "mdatRprsIstyNm": "금융투자", 
+            "mdatPrryRank": "4", 
+            "mdatOrgId": "C1AABR0000",
+            "industryCode": "invest"
+        }, 
+        {
+            "mdatRprsOrgId": "AAAR", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "삼성생명", 
+            "mdatRprsOrgIstyId": "B1", 
+            "mdatRprsIstyNm": "생명보험", 
+            "mdatPrryRank": "6",
+            "mdatOrgId": "B1AAAR0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AAAI", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "교보생명", 
+            "mdatRprsOrgIstyId": "B1", 
+            "mdatRprsIstyNm": "생명보험", 
+            "mdatPrryRank": "7", 
+            "mdatOrgId": "B1AAAI0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AAQI", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "한화생명", 
+            "mdatRprsOrgIstyId": "B1", 
+            "mdatRprsIstyNm": "생명보험", 
+            "mdatPrryRank": "8", 
+            "mdatOrgId": "B1AAQI0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AAEW", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "삼성화재", 
+            "mdatRprsOrgIstyId": "B2", 
+            "mdatRprsIstyNm": "손해보험", 
+            "mdatPrryRank": "1",
+            "mdatOrgId": "B2AAEW0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AACL", 
+            "mdatRcmmYn": "N", 
+            "mdatRprsOrgNm": "AXA손해보험", 
+            "mdatRprsOrgIstyId": "B2", 
+            "mdatRprsIstyNm": "손해보험", 
+            "mdatPrryRank": "10", 
+            "mdatOrgId": "B2AACL0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AAAL", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "현대해상", 
+            "mdatRprsOrgIstyId": "B2", 
+            "mdatRprsIstyNm": "손해보험", 
+            "mdatPrryRank": "2", 
+            "mdatOrgId": "B2AAAL0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AALR", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "KB손해보험", 
+            "mdatRprsOrgIstyId": "B2", 
+            "mdatRprsIstyNm": "손해보험", 
+            "mdatPrryRank": "3", 
+            "mdatOrgId": "B2AALR0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AACR", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "메리츠화재", 
+            "mdatRprsOrgIstyId": "B2", 
+            "mdatRprsIstyNm": "손해보험", 
+            "mdatPrryRank": "4", 
+            "mdatOrgId": "B2AACR0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AAEN", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "DB손해보험", 
+            "mdatRprsOrgIstyId": "B2", 
+            "mdatRprsIstyNm": "손해보험", 
+            "mdatPrryRank": "5",
+            "mdatOrgId": "B2AAEN0000",
+            "industryCode": "insu"
+        }, 
+        {
+            "mdatRprsOrgId": "AAEO", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "KB국민은행", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "1", 
+            "mdatOrgId": "A1AAEO0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAII", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "부산은행", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "10", 
+            "mdatOrgId": "A1AAII0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAMW", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "광주은행", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "11",
+            "mdatOrgId": "A1AAMW0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAPA", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "새마을금고", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "12", 
+            "mdatOrgId": "A4AAPA0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAER", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "신한은행", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "2", 
+            "mdatOrgId": "A1AAER0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAEM", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "우리은행", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "3",
+            "mdatOrgId": "A1AAEM0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AABG", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "NH농협", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "4", 
+            "mdatOrgId": "A1AABG0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAES", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "하나은행", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "5",
+            "mdatOrgId": "A1AAES0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAEQ", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "IBK기업은행", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "6", 
+            "mdatOrgId": "A1AAEQ0000", 
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAAK", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "SC제일은행", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "7", 
+            "mdatOrgId": "A1AAAK0000", 
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAHJ", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "카카오뱅크", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "8", 
+            "mdatOrgId": "A1AAHJ0000",
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAJB", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "케이뱅크", 
+            "mdatRprsOrgIstyId": "A1", 
+            "mdatRprsIstyNm": "은행", 
+            "mdatPrryRank": "9", 
+            "mdatOrgId": "A1AAJB0000", 
+            "industryCode": "bank"
+        }, 
+        {
+            "mdatRprsOrgId": "AAHY", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "네이버페이", 
+            "mdatRprsOrgIstyId": "E1", 
+            "mdatRprsIstyNm": "전자금융", 
+            "mdatOrgId": "E1AAHY0000", 
+            "industryCode": "efin"
+        }, 
+        {
+            "mdatRprsOrgId": "AAIA", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "카카오페이", 
+            "mdatRprsOrgIstyId": "E1", 
+            "mdatRprsIstyNm": "전자금융", 
+            "mdatPrryRank": "2", 
+            "mdatOrgId": "E1AAIA0000",
+            "industryCode": "efin"
+        }, 
+        {
+            "mdatRprsOrgId": "AAGP", 
+            "mdatRcmmYn": "N", 
+            "mdatRprsOrgNm": "이베이코리아", 
+            "mdatRprsOrgIstyId": "E1", 
+            "mdatRprsIstyNm": "전자금융", 
+            "mdatPrryRank": "4", 
+            "mdatOrgId": "E1AAGP0000",
+            "industryCode": "efin"
+        }, 
+        {
+            "mdatRprsOrgId": "AAFO", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "현대카드", 
+            "mdatRprsOrgIstyId": "D1", 
+            "mdatRprsIstyNm": "카드", 
+            "mdatPrryRank": "1", 
+            "mdatOrgId": "D1AAFO0000", 
+            "industryCode": "card"
+        }, 
+        {
+            "mdatRprsOrgId": "AAEX", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "신한카드", 
+            "mdatRprsOrgIstyId": "D1", 
+            "mdatRprsIstyNm": "카드", 
+            "mdatPrryRank": "2", 
+            "mdatOrgId": "D1AAEX0000", 
+            "industryCode": "card"
+        }, 
+        {
+            "mdatRprsOrgId": "AAAF", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "KB국민카드", 
+            "mdatRprsOrgIstyId": "D1", 
+            "mdatRprsIstyNm": "카드", 
+            "mdatPrryRank": "3",
+            "mdatOrgId": "D1AAAF0000",
+            "industryCode": "card"
+        }, 
+        {
+            "mdatRprsOrgId": "AAEV", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "삼성카드", 
+            "mdatRprsOrgIstyId": "D1", 
+            "mdatRprsIstyNm": "카드", 
+            "mdatPrryRank": "4", 
+            "mdatOrgId": "D1AAEV0000", 
+            "industryCode": "card"
+        }, 
+        {
+            "mdatRprsOrgId": "AAAH", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "우리카드", 
+            "mdatRprsOrgIstyId": "D1", 
+            "mdatRprsIstyNm": "카드", 
+            "mdatPrryRank": "5", 
+            "mdatOrgId": "D1AAAH0000", 
+            "industryCode": "card"
+        }, 
+        {
+            "mdatRprsOrgId": "AADO", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "롯데카드", 
+            "mdatRprsOrgIstyId": "D1", 
+            "mdatRprsIstyNm": "카드", 
+            "mdatPrryRank": "6", 
+            "mdatOrgId": "D1AADO0000", 
+            "industryCode": "card"
+        }, 
+        {
+            "mdatRprsOrgId": "AABJ", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "하나카드", 
+            "mdatRprsOrgIstyId": "D1", 
+            "mdatRprsIstyNm": "카드", 
+            "mdatPrryRank": "7", 
+            "mdatOrgId": "D1AABJ0000", 
+            "industryCode": "card"
+        }, 
+        {
+            "mdatRprsOrgId": "AADE", 
+            "mdatRcmmYn": "Y", 
+            "mdatRprsOrgNm": "현대캐피탈", 
+            "mdatRprsOrgIstyId": "D3", 
+            "mdatRprsIstyNm": "할부&리스", 
+            "mdatPrryRank": "1", 
+            "mdatOrgId": "D3AADE0000",
+            "industryCode": "capital"
+        }, 
+        {
+            "mdatRprsOrgId": "AADZ", 
+            "mdatRcmmYn": "N", 
+            "mdatRprsOrgNm": "KB캐피탈", 
+            "mdatRprsOrgIstyId": "D3", 
+            "mdatRprsIstyNm": "할부&리스", 
+            "mdatPrryRank": "2", 
+            "mdatOrgId": "D3AADZ0000", 
+            "industryCode": "capital"
+        }
+    ]
+}

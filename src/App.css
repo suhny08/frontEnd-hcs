@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding-bottom: 90px;
 }
 
 .App-logo {
@@ -14,14 +15,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  text-align: left;
+  font-size: calc(10px + 1vmin);
+  padding: 10px;
+}
+.App-header p {
+  text-align: center;
+  margin: 5px;
+  font-weight: bolder;
+}
+.App-Slider {
+  text-align: left;
+  padding: 10px; 
 }
 
 .App-link {
@@ -36,3 +41,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.content{position:absolute;top:52px;bottom:0px;overflow-x:hidden;}
+.tabBox{position:relative;width:100%;height:50px;border-bottom:1px solid #DDD;}
+.tabList{display:table;width:100%;table-layout:fixed;}
+.tabList li{display:inline-block;text-align:center;}
+.tabList li a{display:block;color:#000;line-height:48px;}
+.tabList li a span{display:inline-block;padding:0px 8px;}
+.tabList li a.on span{border-bottom:2px solid #000;font-weight:700;}
+
+.FList-Active {border: 1px solid blue}
