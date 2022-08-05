@@ -9,12 +9,19 @@ import FooterButton from './components/FooterButton.js';
 
 
 
+export const GridListContext = React.createContext();
+
 function App() {
 
-  const [tapId, setTapId] = useState("Rcmm");
-  
-  const getTapId = id => {
-    setTapId(id)
+  const [ sliderType, setSliderType ] = useState("Ind");
+
+  function changeSliderType() {
+    setSliderType(sliderType === "Ind" ? "alpb" : "Ind");
+  }
+
+  const providerValue = {
+    sliderType: "Ind", 
+    changeSliderType
   }
 
   return (
@@ -24,11 +31,13 @@ function App() {
         <h1>연동할 금융사를 선택하세요</h1>
         <h3>금융사에서 제공되는 전체 서비스가 선택됩니다.</h3>
       </div>
-      <Slider /> 
-      <TapList tapId={tapId} getTapId={getTapId}/>
-      <Selector /> 
-      <FLists tapId={tapId}/>
-      <FooterButton />
+      <GridListContext.Provider value={providerValue}>
+        <Slider /> 
+        <TapList />
+        <Selector /> 
+        <FLists />
+        <FooterButton />
+      </GridListContext.Provider>
     </div>
     
 

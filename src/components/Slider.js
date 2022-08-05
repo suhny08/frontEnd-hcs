@@ -1,3 +1,6 @@
+import { useContext } from "react";
+import { GridListContext } from '../App';
+
 const styleButton = {
     borderRadius: "20px",
     background: "#3a80f7",
@@ -10,7 +13,12 @@ const styleButton = {
     margin: "2px"
 }
 
+
+
 function Slider() {
+    const providerType = useContext(GridListContext)
+
+    console.log('slider: ', providerType)
     return (
         <div className="App-Slider">
             <button style={styleButton}>업권별</button>
