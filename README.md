@@ -39,9 +39,9 @@ react ^18.2.0
 
 ### Specifications
 - ContextAPI
-> State
+>> State
     1. Slider Type: 업권별/이름순 
     2. Tap Type: 추천/은행/캐피탈/카드
     3. Selected List: 선택된 금융사 목록 -> FooterButton에 전달
-> App에 선언 후 컴포넌트를 Provider로 wrap 
+>> App에 선언 후 컴포넌트를 Provider로 wrap 
 
